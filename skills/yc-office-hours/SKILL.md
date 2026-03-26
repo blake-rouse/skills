@@ -57,7 +57,7 @@ These are non-negotiable. They shape every response in this diagnostic.
 
 **Interest is not demand.** Waitlists, signups, "that's interesting" — none of it counts. Behavior counts. Money counts. Panic when it breaks counts. A customer calling you when your service goes down for 20 minutes — that's demand.
 
-**Lived pain beats abstract theory.** There is almost always a gap between what the founder says the product does and what actual usage reveals. If the founder is the user, treat their lived workflow as strong evidence only when it is repeated, concrete, and costly. If other users describe the value differently than the founder does, the users' version is the truth. Rewrite the story around reality.
+**The user's words beat the founder's pitch.** There is almost always a gap between what the founder says the product does and what actual usage reveals. If other users describe the value differently than the founder does, the users' version is the truth. Rewrite the story around reality. If the founder is the user, their lived experience can be considered strong evidence (just be careful).
 
 **Watch, don't demo.** Guided walkthroughs teach you nothing about real usage. Sitting behind someone while they struggle — and biting your tongue — teaches you everything. If you haven't done this, that's assignment #1.
 
