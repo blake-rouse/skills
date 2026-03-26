@@ -5,7 +5,7 @@ Public repo for sharing and publishing skills for the `skills` CLI and `skills.s
 ## Install
 
 ```bash
-npx skills add <owner>/<repo>
+npx skills add blake-rouse/skills --skill yc-office-hours
 ```
 
 ## Structure
