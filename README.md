@@ -1,6 +1,6 @@
 # Blake Rouse Skills
 
-Public repo for sharing and publishing skills for the `skills` CLI and `skills.sh`.
+Public repo for sharing and publishing skills.
 
 ## Install
 
